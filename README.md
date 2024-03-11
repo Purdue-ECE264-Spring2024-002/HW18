@@ -104,12 +104,12 @@ Submission
 ==========
 
 You have to modify `main.c` and `maze.c`. We recommend using `maze.h` as well, but you may 
-leave it blank if you wish.
+leave it blank if you wish. **Even if you don't use `maze.h`, you should still submit it to gradescope.**
 
 Upload code to your repository.
 
-Miscellaneous
-=============
+Advice
+======
 As you may notice, we do not provide you with any starter code nor do we provide 
 a `Makefile`. Because this is an assignment later in the semester, we expect you to
 be able to write your own `Makefile` and `main` function to test your code. Before 
@@ -121,7 +121,7 @@ things at a high level before diving into the weeds of the code.
 Autograder Notes
 ================
 
-Please submit the following files:
+Please submit the following files to gradescope:
 * `main.c`
 * `maze.c`
 * `maze.h`
