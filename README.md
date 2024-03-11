@@ -23,7 +23,7 @@ Please design your own algorithm to find the shortest path. To
 encourage you to think of an algorithm, this assignment does not
 specify the algorithm you need to use.
 
-Two common used algorithms are *depth first with back tracking* and
+Two commonly used algorithms are *depth first with back tracking* and
 *breadth first*. From the starting point, mark it zero. Then:
 
 - *Depth First*: If a cell is open, visit that cell, and keep going as far as
@@ -103,7 +103,8 @@ Output should be printed to `stdout` with `printf()`. Your output should match t
 Submission
 ==========
 
-You have to modify `main.c` and `maze.c`. If you wish, you can use `maze.h` as well.
+You have to modify `main.c` and `maze.c`. We recommend using `maze.h` as well, but you may 
+leave it blank if you wish.
 
 Upload code to your repository.
 
@@ -120,4 +121,7 @@ things at a high level before diving into the weeds of the code.
 Autograder Notes
 ================
 
-
+Please submit the following files:
+* `main.c`
+* `maze.c`
+* `maze.h`
